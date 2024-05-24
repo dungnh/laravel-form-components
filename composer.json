@@ -1,5 +1,5 @@
 {
-    "name": "protonemedia/laravel-form-components",
+    "name": "coliving/laravel-form-components",
     "description": "Blade components to rapidly build forms with Tailwind CSS Custom Forms and Bootstrap 4.",
     "keywords": [
         "protonemedia",
@@ -29,8 +29,8 @@
         }
     ],
     "require": {
-        "php": "^8.1 || ^8.2",
-        "illuminate/support": "^9.0 || ^10.0",
+        "php": "^8.1 || ^8.2 || ^8.3",
+        "illuminate/support": "^9.0 || ^10.0 || ^11.0",
         "symfony/http-foundation": "^6.0"
     },
     "require-dev": {

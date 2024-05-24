@@ -41,14 +41,14 @@ It's the *magic* of Inertia.js with the *simplicity* of Blade. [Splade](https://
 ## Requirements
 
 * PHP 8.0 or higher
-* Laravel 9.0
+* Laravel 9.0, 10.0, 11.0
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require protonemedia/laravel-form-components
+composer require coliving/laravel-form-components
 ```
 
 If you're using Tailwind, make sure the right plugin ([v1](https://github.com/tailwindcss/custom-forms#install) or [v2](https://github.com/tailwindlabs/tailwindcss-forms#installation)) is installed and configured.
